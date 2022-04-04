@@ -1,0 +1,61 @@
+body {
+  min-height: 2950px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #a0c0f3;
+  fill-opacity: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.display-3 {
+  border: 1px solid #ffff;
+  padding-top: 1px;
+  border-radius: 10px;
+  border-width: 10px;
+  margin-top: 10px;
+  max-width: 450px;
+  width: 90vw;
+  font-family: 'Times New Roman';
+
+  background-color: #ffff;
+}
+
+#lead {
+  border-radius: 10px;
+
+  max-width: 450px;
+}
+
+.lead {
+  border: 7px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 90vw;
+
+  max-width: 450px;
+  background-color: aqua;
+  font-family: 'Arrial Narrow';
+}
+navbar-brand {
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background-color: rgb(30, 177, 221);
+}
+
+#Project {
+  background-color: #a0c0f3;
+}
+.card {
+  font-family: 'Arrial Narrow';
+  text-shadow: rgb(58, 54, 54);
+  text-size-adjust: 5 rem;
+}
+.logo > img {
+  margin: 10px;
+}
+
+section {
+  padding-top: 5rem;
+}
