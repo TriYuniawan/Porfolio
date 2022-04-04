@@ -2,7 +2,7 @@ body {
   min-height: 2950px;
 }
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 10rem;
   background-color: #a0c0f3;
   fill-opacity: 2;
   display: flex;
